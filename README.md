@@ -1,2 +1,2 @@
 # GroupComp_Quantile
-Group comparison with quantile estimators
+Group comparison methods with quantile estimators
