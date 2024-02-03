@@ -1,5 +1,5 @@
 noquantile <- function(x, probs) {
-  # Estimates quantiles based on NO estimator introduced by 
+  # Estimates quantiles based on the NO estimator introduced by 
   # (Navruz and Özdemir, 2020) at probabilites in probs.
   # (Navruz, G., & Özdemir, A. F. (2020). A new quantile estimator 
   # with weights based on a subsampling approach. British Journal of 
